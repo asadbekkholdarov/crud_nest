@@ -1,0 +1,7 @@
+POST  http://localhost:3000/hotels
+Content-Type: application/json
+
+{
+  "title": "tunis hotel",
+  "stars": 3
+}
